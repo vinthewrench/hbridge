@@ -28,7 +28,7 @@ Useful for overload protection and detecting mechanical faults.
 
 ## Documentation
 Full design writeup:
-https://vinthewrench.substack.com
+https://www.vinthewrench.com/p/the-humble-actuator
 
 Demo video:
 https://youtu.be/HOyxq8rQfaQ
