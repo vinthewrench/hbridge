@@ -1,21 +1,20 @@
-MIT License
-
+## License
 Copyright (c) 2025 Vinnie Moscaritolo
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+CERN Open Hardware Licence Version 2 - Permissive
+SPDX-License-Identifier: CERN-OHL-P-2.0
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This source describes Open Hardware. You may redistribute and modify this
+documentation and make products using it under the terms of the CERN-OHL-P v2.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This licence does not require you to distribute any modifications,
+design files, or source code. You may manufacture and sell products
+based on this design.
+
+This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,
+INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE.
+
+You should have received a copy of the CERN-OHL-P v2 licence with this documentation.
+If not, the latest version is available at:
+https://ohwr.org/cern_ohl_p_v2.txt
