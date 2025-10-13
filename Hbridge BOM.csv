@@ -1,0 +1,22 @@
+H-Bridge Bill of materials,,,,,,,
+Quantity,Designator,Designation,Mfg Part,Supplier Part,Cost,Ext,Footprint
+5,"C21,C5,C6,C2,C1",.1uf,RCER71H104K0DBH03A,81-RCER71H104K0DBH3A,$0.18 ,$0.92 ,Multilayer Ceramic Capacitors MLCC - Leaded .1UF 50V 10% 2.5MM
+1,C3,1000uf,EEU-FR1E102,667-EEU-FR1E102,$0.45 ,$0.45 ,Aluminum Electrolytic Capacitors - Radial Leaded 25VDC 1000uF 10x20mm
+2,"J1, J2",nodeLync socket,538-70551-0003,70551-0003,$1.19 ,$2.38 ,Molex Headers & Wire Housings SL 4 CKT W-T-B SHROU
+,J3,Conn_02x05_Odd_Even,,,,0,
+1,J4,Screw_Terminal_01x4,1715747,651-1715747,$2.21 ,$2.21 ,Fixed Terminal Blocks 4P 5.08mm 90DEG
+1,J5,45A-VERT-PAIR,SSQ-108-04-L-D,200-SSQ10804LD,$3.28 ,$3.28 ,Heavy Duty Power Connectors PP PCB STRAIGHT
+1,J6,Conn_02x02_Odd_Even,,,,0,
+3,"LED3,LED2,LED1",LED 3mm Green/Red,151033GS03000,710-151033GS03000,$0.25 ,$0.75 ,Single Color LEDs WL-TMRW THT Mono Waterclr Rnd 3mm Grn
+4,"R4,R12,R5,R3",4.7K,MBA02040C4701FRP00,594-5063JD4K700FT,$0.11 ,$0.44 ,Metal Film Resistors - Through Hole .4watt 4.7Kohms 1% 1/8watt
+1,R11,150,MBA02040C1500FRP00,594-5063JD150R0FT,$0.10 ,$0.10 ,Metal Film Resistors - Through Hole .4watt 150ohms 1% 1/8watt
+6,"R6,R14,R15,R9,R10,R1",10K,MBA02040C1002FRP00,594-5063JD10K1%TR,$0.10 ,$0.60 ,Metal Film Resistors - Through Hole .4watt 10Kohms 1% 1/8watt
+3,"R7,R8,R2",1K,MBA02040C1001FRP00,594-5063JD1K000FT,$0.10 ,$0.30 ,Metal Film Resistors - Through Hole .4watt 1Kohms 1% 1/8watt
+1,RN1,10K,4606M-101-103LF,652-4606M-1LF-10K,0.57,0.57,Resistor Networks & Arrays 6pins 10Kohms Bussed
+8,TSV1,P6SMB18A,P6SMB18A,652-P6SMB18A,$0.22 ,$1.76 ,ESD Protection Diodes / TVS Diodes 18V 600W UniDir
+1,U1,MCP23008-E/P,MCP23008-E/P,579-MCP23008-E/P,$1.54 ,$1.54 ,Interface - I/O Expanders In/Out I2C int DIP
+1,U2,VNH7100BASTR,VNH7100BASTR,511-VNH7100BASTR,$3.38 ,$3.38 ,Motor / Motion / Ignition Controllers & Drivers Low Side Driver 1.5A /3A A 595-DRV103H/2K5
+1,U3,MCP3427-E/UN,,579-MCP3427E/UN,$3.68 ,$3.68 ,
+1,PCB,PCBoard 60*90,,,$0.65 ,$0.65 ,PCBway board 
+,,,,,,,
+,,,,,Total Cost,$23.01 ,
